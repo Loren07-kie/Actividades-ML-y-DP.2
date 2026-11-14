@@ -9,7 +9,7 @@ Aplicación Flask de aprendizaje **no supervisado** con Isolation Forest. Inspir
 - Variables: RPM, temperatura (°C), vibración (mm/s), corriente (A).
 - Estandarización + Isolation Forest (200 árboles, contamination=0.06).
 - Formulario web y API `POST /api/predict`, además de `GET /health`.
-- Cuaderno: `notebooks/MotorGuard_Documentacion.ipynb`.
+- Cuaderno: `notebooks/07_Caso_Practico_Completo.ipynb`.
 - Logotipo SENATI incluido como recurso SVG identificativo; uso académico.
 
 ## Uso local
